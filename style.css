@@ -56,6 +56,12 @@ header img{
   border-radius:50%;
   width: 200px;
   height:200px;
+  margin: 25px 410px 0px 410px;
+}
+section img{
+  opacity:0.85;
+  width: 150px;
+  height:150px;
   margin: 25px 410px 0px 415px;
 }
 iframe{
