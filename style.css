@@ -87,13 +87,13 @@ section img{
 h3 img{
   width:55px;
   height:40px;
-  margin: 0px 1100px 0px 0px;
+  margin: 0px 1500px 0px 0px;
   position: relative;
 }
 
 h6{
   position: absolute;
-  margin: 105px 25px 50px 170px;
+  margin: 105px 25px 50px 400px;
   font-size: 20px;
   color: rgba(0, 0, 0, 1);
   font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -101,7 +101,7 @@ h6{
 }
 h4{
   position: absolute;
-  margin: 105px 25px 50px 525px;
+  margin: 105px 25px 50px 755px;
   font-size: 20px;
   color: rgba(0, 0, 0, 1);
   font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -109,7 +109,7 @@ h4{
 }
 div{
   position: absolute;
-  margin: 105px 25px 50px 825px;
+  margin: 105px 25px 50px 1050px;
   font-size: 20px;
   color: rgba(0, 0, 0, 1);
   font-family: 'Yanone Kaffeesatz', sans-serif;
